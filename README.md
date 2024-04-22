@@ -23,11 +23,11 @@ Step 6: Perform the Calculator Operation in MainActivity.java
 Step 7: Save and run the application.
 
 ## Program:
-/*
+~~~
 Program to create simple calculator using Android Studio.
 Developed by: JOTHIKRISHNAA V
 RegisterNumber:  212223100017
-*/
+~~~
 MainActivity.java:
 ~~~
 package com.example.calculator;
